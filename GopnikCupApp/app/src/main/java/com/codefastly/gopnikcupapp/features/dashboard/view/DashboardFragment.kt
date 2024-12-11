@@ -1,4 +1,4 @@
-package com.codefastly.gopnikcupapp.ui.dashboard
+package com.codefastly.gopnikcupapp.features.dashboard.view
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.codefastly.gopnikcupapp.databinding.FragmentDashboardBinding
+import com.codefastly.gopnikcupapp.features.dashboard.viewmodel.DashboardViewModel
 
 class DashboardFragment : Fragment() {
 

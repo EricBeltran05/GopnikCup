@@ -1,4 +1,4 @@
-package com.codefastly.gopnikcupapp.ui.dashboard
+package com.codefastly.gopnikcupapp.features.dashboard.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

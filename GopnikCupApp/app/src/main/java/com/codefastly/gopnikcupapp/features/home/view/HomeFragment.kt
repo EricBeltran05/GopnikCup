@@ -1,4 +1,4 @@
-package com.codefastly.gopnikcupapp.ui.home
+package com.codefastly.gopnikcupapp.features.home.view
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.codefastly.gopnikcupapp.databinding.FragmentHomeBinding
+import com.codefastly.gopnikcupapp.features.home.viewmodel.HomeViewModel
 
 class HomeFragment : Fragment() {
 

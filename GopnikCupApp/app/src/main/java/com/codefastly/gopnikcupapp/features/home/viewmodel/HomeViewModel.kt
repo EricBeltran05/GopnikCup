@@ -1,4 +1,4 @@
-package com.codefastly.gopnikcupapp.ui.home
+package com.codefastly.gopnikcupapp.features.home.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
